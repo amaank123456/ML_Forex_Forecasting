@@ -28,6 +28,7 @@ Mean Squared Errors of Testing Set
 | zebra stripes | are neat      |    $1 |
 
 | Models | USD/EUR    | EUR/CHF    | EUR/GBP    | GBP/CHF    | USD/CHF    | USD/GBP    |
+| ------ |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | VARIMA | 1.4322e-04 | 4.6296e-05 | 5.3731e-06 | 1.9925e-06 | 2.3364e-05 | 3.4806e-05 |
 
 ### Acknowledgements

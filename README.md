@@ -21,8 +21,14 @@ https://finance.yahoo.com/quote/EURCHF%3DX/history?p=EURCHF%3DX
 ## Results
 Mean Squared Errors of Testing Set
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 | Models | USD/EUR | EUR/CHF | EUR/GBP | GBP/CHF | USD/CHF | USD/GBP |
-| VARIMA  | 1.4322e-04 | 4.6296e-05 | \textbf{5.3731e-06} | \textbf{1.9925e-06} |  \textbf{2.3364e-05} | 3.4806e-05 |
+| VARIMA | 1.4322e-04 | 4.6296e-05 | \textbf{5.3731e-06} | \textbf{1.9925e-06} |  \textbf{2.3364e-05} | 3.4806e-05 |
 
 ### Acknowledgements
 The VARIMA scripts make use of code from [1] for implementing the Augmented Dickey Fuller (ADF) and the Grangers Causality Test. These code snippets were solely used to determine necessary attributes of underlying data before training the models

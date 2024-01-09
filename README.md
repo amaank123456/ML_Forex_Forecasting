@@ -54,6 +54,13 @@ Mean Squared Errors of Testing Set for Rates from 12/04/2023 to 12/08/2023
 | ------ |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | VARIMA | 1.4322e-04 | 4.6296e-05 | 5.3731e-06 | 1.9925e-06 | 2.3364e-05 | 3.4806e-05 |
 
-### Acknowledgements
+# Contributors
+- Amaan Kazi
+- Satvik Dixit
+- Aryan Singhal
+- Justin Dannemiller
+- Jionghao Han
+
+# Acknowledgements
 The VARIMA scripts make use of code from [1] for implementing the Augmented Dickey Fuller (ADF) and the Grangers Causality Test. These code snippets were solely used to determine necessary attributes of underlying data before training the models
 [1] Prabhakaran, S. (2022, August 30). Vector autoregression (VAR) - comprehensive guide with examples in Python. Machine Learning Plus. https://www.machinelearningplus.com/time-series/vector-autoregression-examples-python/ 
